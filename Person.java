@@ -4,4 +4,8 @@ public class Person {
     private int studentAge;
     private String studentAddress;
     private String studentEmail;
+
+    public Person(String studentName) {
+        this.studentName = studentName;
+    }
 }
