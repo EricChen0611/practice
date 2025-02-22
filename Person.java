@@ -3,4 +3,5 @@ public class Person {
     private int studentID;
     private int studentAge;
     private String studentAddress;
+    private String studentEmail;
 }
